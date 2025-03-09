@@ -1,4 +1,22 @@
 # minor-project
+Minor Project in C code to handle the various operations of the data structures Stack and
+
+Queue with their separate operations like the provided screen layout.a) Choose Your Data Structure: -
+1.stack
+2.queue
+
+b) If Choose Stack: -
+1.push
+2.pop
+3.display
+4.exit
+
+c) If Choose Queue:
+1.Enqueue
+2.Dequeue
+3.Display
+4.Back to main menu
+solution:
 #include <stdio.h>
 #include <stdlib.h>
 
